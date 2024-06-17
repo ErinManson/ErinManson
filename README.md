@@ -1,12 +1,12 @@
 Hey, I'm Erin 👋
 - 🔭 I’m currently working on ...
-      Training an AI model for my co-op placement
-      The Odin Project Web Development Course
+      Training an AI model for my co-op placement,
+      The Odin Project Web Development Course,
       Hugging Face's NLP Course
 - 🌱 I’m currently learning ...
       API Development
 - 👯 I’m looking to collaborate on ...
-      Anything really
+      AI and API related projects
 - 😄 Languages and tools ...
       Java, C, Python, ARM, VBA, API Dev, Linux, Git
   
