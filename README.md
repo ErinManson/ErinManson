@@ -1,14 +1,13 @@
 Hey, I'm Erin 👋
 - 🔭 I’m currently working on ...
-      Training an AI model for my co-op placement,
       The Odin Project Web Development Course,
       Hugging Face's NLP Course
 - 🌱 I’m currently learning ...
       API Development
 - 👯 I’m looking to collaborate on ...
-      AI and API related projects
+      All things AI and LLMs
 - 😄 Languages and tools ...
-      Java, C, Python, ARM, VBA, API Dev, Linux, Git
+      HTML, JavaScript, CSS, Java, C, Python, ARM, VBA, API Dev, Linux, Git
   
 <!--
 **ErinManson/ErinManson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
